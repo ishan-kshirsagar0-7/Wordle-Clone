@@ -1,7 +1,7 @@
 # Wordle-Clone
 ## Not _just_ another clone, but an enhanced version!
 
-[Click Here - Try it out yourself!](https://wordle-cl0ne.netlify.app/)
+[Click Here - Try it out yourself!](https://wordle-cl0ne.netlify.app/){:target="_blank"}
 
 ## What is Wordle?
 Wordle, is one of the most intriguing word puzzle on the internet, where the user has to guess the hidden 5-letter word in under 6 guesses. 
