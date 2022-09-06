@@ -14,6 +14,10 @@ Wordle, is one of the most intriguing word puzzle on the internet, where the use
 
 ## Why is my "clone" of the game is better than the original?
 - In the original Wordle, users can play the game ONLY once per day, that is, once they've guessed the word for the day, they cannot play further for the next 24 hours. However, in my Wordle Clone, users can play as long as they want to, all they have to do is, refresh the website for a new hidden word. Yes, it's that simple!
+
+![error](https://j.gifs.com/VvKozB.gif)
 - This Wordle Clone has a feature that enables users to look up the meaning of the hidden word by simply clicking on the enter button! The original Wordle does not have any such feature.
+
 ![error](https://j.gifs.com/qQmQ7D.gif)
+
 - Minor improvements, such as improved color palette for hover states of the buttons so that the user knows what button the cursor is on, some final touches, etc.
